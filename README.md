@@ -2,12 +2,16 @@
 
 🔍 Passionate about data science, AI and their business applications.
 
-## 🌱 Currently Learning
-
-📚 Diving deeper into various data science techniques:
+📚 Currently diving deeper into various data science techniques:
    - Machine Learning Algorithms
    - Deep Learning
    - Computer Vision
+     
+## Repository
+- `Master_DS_Tasks`: A repository containing the tasks and assignments for my Master's degree courses, ranging from Statistics, Relational Databases to Machine Learning and Deep Learning.
+  
+- `galatic_grapher_st`: A Streamlit web application that facilitates and automates basic data preprocessing for Exploratory Data Analysis (EDA).
+- `Personal_Projects`: This repository contains my personal projects and portfolios.
 
 ## 📫 How to Reach Me
 - 🧑‍💻 LinkedIn: https://www.linkedin.com/in/hao-q-0a4259134/
